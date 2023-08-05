@@ -1,3 +1,4 @@
+#include <host.h>
 #include <mach/mach.h>
 
 #include "iokit.h"
